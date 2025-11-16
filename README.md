@@ -425,3 +425,9 @@ python predict.py --model pretrained --data your_data.csv --output results.csv
 - **Storage**: 2GB for models and dependencies
 
 This codebase provides a complete framework for TCR-antigen interaction prediction with novel pretraining strategies that significantly improve over baseline approaches.
+
+
+### Poster
+
+[Saurav_Upadhyaya_TCR_Antigen_Interaction_Prediction.pdf](https://github.com/user-attachments/files/23571147/Saurav_Upadhyaya_TCR_Antigen_Interaction_Prediction.pdf)
+
