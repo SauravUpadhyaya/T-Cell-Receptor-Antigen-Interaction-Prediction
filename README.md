@@ -46,7 +46,7 @@ Selected a **multi-task learning framework** to pretrain our model on TCR–anti
 
 ## Poster 
 
-<img width="1007" height="997" alt="image" src="https://github.com/user-attachments/assets/9c8c6c35-004e-43fc-ace1-0e5b887305be" />
+<img width="1008" height="1007" alt="image" src="https://github.com/user-attachments/assets/659c4e1c-103c-47e7-8c0b-e3152f8d261f" />
 
 
 ## Technical Analysis of Pretraining Tasks
